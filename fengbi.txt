@@ -1,0 +1,6 @@
+||umeng.com^
+||afdvr.com^$important
+||iptel.org^$important
+||api.miwifi.com^$important
+||shurufa.sogou.com^$important
+||pinyin.sogou.com^$important
