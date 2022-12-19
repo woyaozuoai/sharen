@@ -5,3 +5,4 @@
 @@||iwebs.ml^$important
 @@||snssdk.com^$important
 @@||p3-sign.toutiaoimg.com^$important
+@@||pbcdci.cn^$important
