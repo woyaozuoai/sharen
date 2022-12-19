@@ -6,3 +6,4 @@
 @@||snssdk.com^$important
 @@||p3-sign.toutiaoimg.com^$important
 @@||pbcdci.cn^$important
+@@||githubusercontent.com^$important
