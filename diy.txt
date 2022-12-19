@@ -19,3 +19,4 @@
 ||api.miwifi.com^$important
 ||shurufa.sogou.com^$important
 ||pinyin.sogou.com^$important
+@@||p3-sign.toutiaoimg.com^$important
