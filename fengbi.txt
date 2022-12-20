@@ -6,7 +6,7 @@
 ! 国内必须拦截的一些网站,拦截隐私等，如需放行请自定义
 ! 
 ! 
-||umeng.com^
+||umeng.com^$important
 ||afdvr.com^$important
 ||iptel.org^$important
 ||api.miwifi.com^$important
