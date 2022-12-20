@@ -6,10 +6,20 @@
 ! 国内必须拦截的一些网站,拦截隐私等，如需放行请自定义
 ! 
 ! 
+! 友盟相关
 ||umeng.com^$important
+
+! 
+! 监控相关
 ||afdvr.com^$important
 ||iptel.org^$important
+
+! 
+! 小米相关
 ||api.miwifi.com^$important
+
+! 
+! 搜狗相关
 ||shurufa.sogou.com^$important
 ||pinyin.sogou.com^$important
 ||shouji.sogou.com^$important

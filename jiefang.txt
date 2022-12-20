@@ -5,19 +5,52 @@
 ! 
 ! 国内必须放行的一些网站,拦截将部分功能不可用
 ! 
+! 
+! 视频播放相关
 @@||iwebs.ml^$important
+
+! 
+! 今日头条相关
 @@||snssdk.com^$important
 @@||p3-sign.toutiaoimg.com^$important
-@@||pbcdci.cn^$important
-@@||githubusercontent.com^$important
-@@||dns.msftncsi.com^$important
-@@||www.baidu.com^$important
-@@||www.google.com^$important
-@@||www.iqiyi.com^$important
-@@||v.qq.com^$important
-@@||github.com^$important
-@@||www.ixigua.com^$important
 @@||www.toutiao.com^$important
+
+! 
+! 数字人民币相关
+@@||pbcdci.cn^$important
+
+! 
+! 代码托管相关
+@@||githubusercontent.com^$important
+@@||github.com^$important
+
+! 
+! 微软相关
+@@||dns.msftncsi.com^$important
+
+! 
+! 百度相关
+@@||www.baidu.com^$important
+
+! 
+! 谷歌相关
+@@||www.google.com^$important
+
+! 
+! 爱奇艺相关
+@@||www.iqiyi.com^$important
+
+! 
+! 腾讯相关
+@@||v.qq.com^$important
+
+! 
+! 西瓜视频相关
+@@||www.ixigua.com^$important
+
+! 
+! 酷我音乐播放器相关
 @@||deliver.kuwo.cn^$important
+
 
 
