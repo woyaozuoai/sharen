@@ -1,3 +1,5 @@
+https://github.com/woyaozuoai/sharen
+
 AdGuard DNS filter
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
