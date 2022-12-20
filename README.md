@@ -7,6 +7,9 @@
 </p>
 	<span style="font-size:24px;color:#E53333;">广告,隐私收集等</span>
 </p>
+! 
+! 共同努力添加最新最全的资源
+! 
 
 DNS 拦截列表
 个性化拦截 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
