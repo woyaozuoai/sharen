@@ -1,0 +1,75 @@
+AdGuard DNS filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
+AdAway Default Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+
+CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+CHN: anti-AD
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+
+AdRules AdBlock List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
+
+AdRules AdGuard Filter List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
+
+AdRules DNS List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+
+AdRules Hosts List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt
+
+AdRules Ad Domains List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
+
+AdRules AdBlock List Full
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
+
+AdRules AdGuard Full List
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard-full.txt
+
+EasyList
+https://easylist-downloads.adblockplus.org/easylist.txt
+
+Easylist China
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+EasyPrivacy
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+adgk手机去广告规则
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+I don't care about cookies
+https://www.i-dont-care-about-cookies.eu/abp/
+
+知乎过滤器
+https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
+
+大圣净化 - 针对国内视频网站
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+ad-mo 规则列表
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
+
+ad-edentw 规则列表
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
+
+ad1
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+
+ad2
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
+
+ad3
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
+
+ad-pc 规则列表
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
+
+个性封闭拦截
+https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
+
