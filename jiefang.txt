@@ -7,7 +7,6 @@
 @@||p3-sign.toutiaoimg.com^$important
 @@||pbcdci.cn^$important
 @@||githubusercontent.com^$important
-@@||raw.githubusercontent.com^$important
 @@||dns.msftncsi.com^$important
 @@||www.baidu.com^$important
 @@||www.google.com^$important
