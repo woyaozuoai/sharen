@@ -18,4 +18,5 @@
 @@||github.com^$important
 @@||www.ixigua.com^$important
 @@||www.toutiao.com^$important
+@@||deliver.kuwo.cn^$important
 
