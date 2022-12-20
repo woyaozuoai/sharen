@@ -26,14 +26,3 @@
 
 ! 
 ! 网页小游戏
-||g.360.cn^$important
-||www.4399.com^$important
-||www.17yy.com^$important
-||wows.wggames.cn^$important
-||wot.wggames.cn^$important
-||tg3601.37.com^$important
-||sxyx.51sy.cc^$important
-||www.7724.com$important
-||sxyx.51sy.cc^$important
-||cpc.icloud.cn^$important
-||66s8h.fmggames.cn^$important
