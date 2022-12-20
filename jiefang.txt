@@ -14,4 +14,6 @@
 @@||www.iqiyi.com^$important
 @@||v.qq.com^$important
 @@||github.com^$important
+@@||www.ixigua.com^$important
+@@||www.toutiao.com^$important
 
