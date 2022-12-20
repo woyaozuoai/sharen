@@ -10,4 +10,5 @@
 @@||raw.githubusercontent.com^$important
 @@||dns.msftncsi.com^$important
 @@||www.baidu.com^$important
+@@||www.google.com^$important
 
