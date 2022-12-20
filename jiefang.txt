@@ -10,4 +10,7 @@
 @@||dns.msftncsi.com^$important
 @@||www.baidu.com^$important
 @@||www.google.com^$important
+@@||www.iqiyi.com^$important
+@@||v.qq.com^$important
+@@||github.com^$important
 
