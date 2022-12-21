@@ -25,4 +25,5 @@
 ||shouji.sogou.com^$important
 
 ! 
-! 网页小游戏
+! 某些系统日志log上传
+||tailscale.io^$important
