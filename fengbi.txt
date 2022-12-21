@@ -22,6 +22,8 @@
 ||shurufa.sogou.com^$important
 ||pinyin.sogou.com^$important
 ||shouji.sogou.com^$important
+||sogo.com^$important
+
 
 ! 
 ! 某些系统日志log上传
