@@ -75,3 +75,7 @@ https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
 个性封闭拦截
 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
 
+
+间谍软件
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
