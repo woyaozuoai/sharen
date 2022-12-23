@@ -35,3 +35,6 @@
 ||api.open.adsaide.cn^$important
 ||adisaid.cn^$important
 
+! 
+! 某些其他
+||yunconfig.com^$important
