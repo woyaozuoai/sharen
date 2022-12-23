@@ -27,7 +27,11 @@
 ||v2.get.sogou.com^$important
 ||input.shouji.sogou.com^$important
 
-
 ! 
 ! 某些系统日志log上传
 ||tailscale.io^$important
+! 
+! Apache Tomcat api
+||api.open.adsaide.cn^$important
+||adisaid.cn^$important
+
