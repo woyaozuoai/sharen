@@ -79,3 +79,13 @@ https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
 间谍软件
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
 
+
+EasyList Cookie
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+
+Fanboy 的社交黑名单
+https://easylist.to/easylist/fanboy-social.txt
+
+Fanboy 的烦恼列表阻止社交媒体内容
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
