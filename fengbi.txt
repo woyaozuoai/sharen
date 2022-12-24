@@ -15,6 +15,7 @@
 
 ! 
 ! 小米相关
+||api.miwifi.com^$important
 
 ! 
 ! 搜狗相关
