@@ -38,3 +38,7 @@
 ! 
 ! 某些其他
 ||yunconfig.com^$important
+
+! 
+!思必驰 
+||log.aispeech.com^$important
