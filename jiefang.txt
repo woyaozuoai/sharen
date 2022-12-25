@@ -52,6 +52,6 @@
 @@||deliver.kuwo.cn^$important
 ! 
 ! 腾讯QQ管家相关
-@@||guanjia.qq.com^$important
+
 
 
