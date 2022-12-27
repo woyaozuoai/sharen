@@ -12,7 +12,6 @@
 ! 今日头条相关
 @@||snssdk.com^$important
 @@||p3-sign.toutiaoimg.com^$important
-@@||www.toutiao.com^$important
 
 ! 
 ! 数字人民币相关
@@ -28,30 +27,9 @@
 @@||dns.msftncsi.com^$important
 
 ! 
-! 百度相关
-@@||www.baidu.com^$important
-
-! 
-! 谷歌相关
-@@||www.google.com^$important
-
-! 
-! 爱奇艺相关
-@@||www.iqiyi.com^$important
-
-! 
-! 腾讯相关
-@@||v.qq.com^$important
-
-! 
-! 西瓜视频相关
-@@||www.ixigua.com^$important
-
-! 
 ! 酷我音乐播放器相关
 @@||deliver.kuwo.cn^$important
 ! 
-! 腾讯QQ管家相关
 
 
 
