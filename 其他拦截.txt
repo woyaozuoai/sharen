@@ -1,22 +1,10 @@
 https://github.com/woyaozuoai/sharen
 
-AdGuard DNS filter
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-
-AdAway Default Blocklist
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
-
 CHN: AdRules DNS List
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
 
 CHN: anti-AD
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-
-Easylist China
-https://easylist-downloads.adblockplus.org/easylistchina.txt
-
-EasyPrivacy
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 adgk手机去广告规则
 https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
@@ -24,21 +12,5 @@ https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 AdRules AdBlock List Plus	
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
 
-I don't care about cookies
-https://www.i-dont-care-about-cookies.eu/abp/
-
-
-大圣净化 - 针对国内视频网站
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-
-
-个性封闭拦截
+性化拦截 
 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
-
-
-间谍软件
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
-
-
-EasyList Cookie
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
