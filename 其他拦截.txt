@@ -14,3 +14,6 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
 
 性化拦截 
 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
+
+大圣净化 - 针对国内视频网站
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
