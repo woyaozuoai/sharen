@@ -20,5 +20,6 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
 
 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
+（多组重合过滤）
 https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
