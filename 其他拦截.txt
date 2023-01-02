@@ -23,3 +23,6 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 （多组重合过滤）
 https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
+
+NEO DEV HOST
+https://neodev.team/host
