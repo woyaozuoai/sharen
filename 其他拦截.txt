@@ -26,3 +26,13 @@ https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
 
 NEO DEV HOST
 https://neodev.team/host
+
+ad-mo
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
+
+ad-pc
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
+
+
+ad-edentw
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
