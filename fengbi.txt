@@ -48,3 +48,4 @@
 ||shorturl.biz.weibo.cn^$important
 ||wcqfzzn.top^$important
 /sinaurl?u=
+||lingdong.biz.weibo.com^$important
