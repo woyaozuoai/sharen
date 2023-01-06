@@ -51,3 +51,4 @@
 ||lingdong.biz.weibo.com^$important
 ||leyad.cn^$important
 ||golona.ink^$important
+||wcuiqyu.cn^$important
