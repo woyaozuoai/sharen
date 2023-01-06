@@ -53,3 +53,4 @@
 ||golona.ink^$important
 ||wcuiqyu.cn^$important
 ||ningbojisheng.cn^$important
+||t.cn^$important
