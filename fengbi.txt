@@ -18,7 +18,7 @@
 ||api.miwifi.com^$important
 
 ! 
-! 搜狗相关
+! 搜狗相关隐私
 ||shurufa.sogou.com^$important
 ||pinyin.sogou.com^$important
 ||shouji.sogou.com^$important
