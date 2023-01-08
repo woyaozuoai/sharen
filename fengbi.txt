@@ -54,3 +54,7 @@
 ||wcuiqyu.cn^$important
 ||ningbojisheng.cn^$important
 ||t.cn^$important
+
+! 
+!腾讯相关
+||bugly.qq.com^$important
