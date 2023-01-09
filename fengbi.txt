@@ -9,9 +9,9 @@
 ||umeng.com^$important
 
 ! 
-! 监控相关
-||afdvr.com^$important
-||iptel.org^$important
+! 某些监控相关
+!||afdvr.com^$important
+!||iptel.org^$important
 
 ! 
 ! 小米相关
