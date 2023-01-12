@@ -54,7 +54,7 @@
 ||wcuiqyu.cn^$important
 ||ningbojisheng.cn^$important
 ||t.cn^$important
-||myqcloud.com^$important
+
 
 
 ! 
