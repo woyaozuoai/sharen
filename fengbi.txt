@@ -54,6 +54,8 @@
 ||wcuiqyu.cn^$important
 ||ningbojisheng.cn^$important
 ||t.cn^$important
+||myqcloud.com^$important
+
 
 ! 
 !腾讯相关
