@@ -47,7 +47,7 @@
 !新浪微博跳转及恶意诈骗广告
 ||shorturl.biz.weibo.cn^$important
 ||wcqfzzn.top^$important
-/sinaurl?u=
+||/sinaurl?u=^$important
 ||lingdong.biz.weibo.com^$important
 ||leyad.cn^$important
 ||golona.ink^$important
