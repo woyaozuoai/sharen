@@ -1,10 +1,6 @@
 https://github.com/woyaozuoai/sharen
 
-CHN: AdRules DNS List
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-
-CHN: anti-AD
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+=======================建议默认使用=============================
 
 adgk手机去广告规则
 https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
@@ -15,15 +11,6 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
 性化拦截 
 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
 
-大圣净化 - 针对国内视频网站
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-
-
-合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
-（多组重合过滤）
-https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
-https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
-
 NEO DEV HOST
 https://neodev.team/host
 
@@ -33,10 +20,28 @@ https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
 ad-pc
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
 
-
-ad-edentw
-https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
-
+Number of Domain
+https://neodev.team/adblocker
 
 百度搜索结果极限净化
 https://raw.iqiq.io/banbendalao/ADgk/master/kill-baidu-ad.txt
+
+
+=======================其他过滤规则=============================
+
+CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+CHN: anti-AD
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+
+大圣净化 - 针对国内视频网站
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
+（多组重合过滤）
+https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
+
+ad-edentw
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
