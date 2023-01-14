@@ -20,10 +20,7 @@ DNS 允许列表
 个性化解放 https://raw.githubusercontent.com/woyaozuoai/sharen/main/jiefang.txt
 
 其他过滤 规则
-
-
-
-https://github.com/woyaozuoai/sharen
+https://github.com/woyaozuoai/sharen/blob/main/%E5%85%B6%E4%BB%96%E6%8B%A6%E6%88%AA.txt
 
 =======================建议默认使用=============================
 
