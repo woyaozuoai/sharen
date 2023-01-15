@@ -42,8 +42,6 @@ https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
 ad-pc
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
 
-Number of Domain
-https://neodev.team/adblocker
 
 百度搜索结果极限净化
 https://raw.iqiq.io/banbendalao/ADgk/master/kill-baidu-ad.txt
