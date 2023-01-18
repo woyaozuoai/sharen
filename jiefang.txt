@@ -14,6 +14,10 @@
 @@||p3-sign.toutiaoimg.com^$important
 
 ! 
+! 抖音直播购物
+@@||haohuo.jinritemai.com^$important
+! 
+
 ! 数字人民币相关
 @@||pbcdci.cn^$important
 
@@ -29,7 +33,6 @@
 ! 
 ! 酷我音乐播放器相关
 @@||deliver.kuwo.cn^$important
-! 
 
 
 
