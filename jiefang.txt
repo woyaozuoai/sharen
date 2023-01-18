@@ -4,7 +4,7 @@
 ! 
 ! 国内必须放行的一些网站,拦截将部分功能不可用
 ! 
-! 
+ 
 ! 视频播放相关
 @@||iwebs.ml^$important
 
@@ -15,8 +15,7 @@
 
 ! 
 ! 抖音直播购物
-@@||haohuo.jinritemai.com^$important
-! 
+@@||haohuo.jinritemai.com^$important 
 
 ! 数字人民币相关
 @@||pbcdci.cn^$important
