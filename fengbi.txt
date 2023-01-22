@@ -60,3 +60,4 @@
 ! 
 !腾讯相关
 ||bugly.qq.com^$important
+||url.cn^$important
