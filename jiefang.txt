@@ -33,5 +33,10 @@
 ! 酷我音乐播放器相关
 @@||deliver.kuwo.cn^$important
 
+! 
+! 探探相关
+@@||m.tantanapp.com^$important
+
+
 
 
