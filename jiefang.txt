@@ -34,9 +34,7 @@
 @@||deliver.kuwo.cn^$important
 
 ! 
-! 探探相关
-@@||m.tantanapp.com^$important
-@@||accounts.tantanapp.com^$important
-@@||i.tantanapp.com^$important
+! 探探APP相关
+@@||tantanapp.com^$important
 
 
