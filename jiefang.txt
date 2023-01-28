@@ -36,7 +36,7 @@
 ! 
 ! 探探相关
 @@||m.tantanapp.com^$important
-
+@@||accounts.tantanapp.com^$important
 
 
 
