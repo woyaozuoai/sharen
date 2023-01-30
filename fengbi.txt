@@ -16,6 +16,8 @@
 ! 
 ! 小米相关
 ||api.miwifi.com^$important
+||0.pool.ntp.org^$important
+
 
 ! 
 ! 搜狗相关隐私
