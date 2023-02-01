@@ -10,8 +10,8 @@
 
 ! 
 ! 某些监控相关
-||afdvr.com^$important
-||iptel.org^$important
+!||afdvr.com^$important
+!||iptel.org^$important
 
 ! 
 ! 小米相关
