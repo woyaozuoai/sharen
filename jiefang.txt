@@ -37,4 +37,5 @@
 ! 探探APP相关
 @@||tantanapp.com^$important
 
-
+! QQ相关
+@@||qzs.qq.com^$important
