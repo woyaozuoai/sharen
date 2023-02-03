@@ -26,6 +26,8 @@ https://github.com/woyaozuoai/sharen/blob/main/%E5%85%B6%E4%BB%96%E6%8B%A6%E6%88
 误杀 请添加到允许项
 
 =======================建议默认使用=============================
+(anti-ADadguard专用规则)
+https://anti-ad.net/adguard.txt
 
 adgk手机去广告规则
 https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
