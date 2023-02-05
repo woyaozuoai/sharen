@@ -26,30 +26,56 @@ https://github.com/woyaozuoai/sharen/blob/main/%E5%85%B6%E4%BB%96%E6%8B%A6%E6%88
 误杀 请添加到允许项
 
 =======================建议默认使用=============================
-(anti-ADadguard专用规则)
-https://anti-ad.net/adguard.txt
-
-adgk手机去广告规则
-https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-
-AdRules AdBlock List Plus	
-https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
-
-性化拦截 
-https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
-
-NEO DEV HOST
-https://neodev.team/host
 
 CHN: anti-AD
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+56,203
+2023年2月5日 16:01
 
-AdRules DNS List
+反ADadguard专用规则
+https://anti-ad.net/adguard.txt
+58,892
+2023年2月5日 16:01
+
+NEO 开发主机
+https://neodev.team/host
+236,045
+2023年2月5日 16:06
+
+AdRules DNS 列表
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+62,033
+2023年2月5日 16:06
+
+AdRules AdBlock List Plus
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
+237,347
+2023年2月5日 16:06
+
+adgk手机去广告规则
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+9,117
+2023年2月5日 16:06
+
+个性化拦截
+https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
+1,702
+2023年2月5日 16:06
+
+ad-mo
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
+90,934
+2023年2月5日 16:06
+
+ad-pc
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
+91,230
+2023年2月5日 16:06
 
 
 
 =======================其他过滤规则=============================
+
 
 CHN: AdRules DNS List
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
