@@ -62,6 +62,7 @@
 ||wpscdn.cn^$important
 ||ksord.com^$important
 ||wdl1.file.cache.docer.com^$important
+||kdocs.cn^$important
 
 
 ! 
