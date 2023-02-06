@@ -57,6 +57,8 @@
 ||ningbojisheng.cn^$important
 ||t.cn^$important
 
+!wps相关
+||wps.cn^$important
 
 
 ! 
