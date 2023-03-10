@@ -27,50 +27,41 @@ https://github.com/woyaozuoai/sharen/blob/main/%E5%85%B6%E4%BB%96%E6%8B%A6%E6%88
 
 =======================建议默认使用=============================
 
+
 CHN: anti-AD
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-56,203
-2023年2月5日 16:01
+57,134
+2023年3月9日 22:15
 
 反ADadguard专用规则
 https://anti-ad.net/adguard.txt
-58,892
-2023年2月5日 16:01
-
-NEO 开发主机
-https://neodev.team/host
-236,045
-2023年2月5日 16:06
+59,834
+2023年3月9日 22:16
 
 AdRules DNS 列表
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
-62,033
-2023年2月5日 16:06
+60,116
+2023年3月9日 22:16
 
 AdRules AdBlock List Plus
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
-237,347
-2023年2月5日 16:06
-
-adgk手机去广告规则
-https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-9,117
-2023年2月5日 16:06
+236,912
+2023年3月10日 06:16
 
 个性化拦截
 https://raw.githubusercontent.com/woyaozuoai/sharen/main/fengbi.txt
-1,702
-2023年2月5日 16:06
+1,707
+2023年3月10日 06:16
 
-ad-mo
-https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
-90,934
-2023年2月5日 16:06
+NEO 开发主机
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+247,204
+2023年3月10日 06:16
 
-ad-pc
-https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
-91,230
-2023年2月5日 16:06
+多组重合过滤
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
+53,243
+2023年3月10日 06:16
 
 
 
