@@ -16,6 +16,9 @@
 ! 
 ! 抖音直播购物
 @@||haohuo.jinritemai.com^$important 
+@@||tnc11-bjlgy.zijieapi.com^$important
+@@||tnc3-alisc1.zijieapi.com^$important
+
 
 ! 数字人民币相关
 @@||pbcdci.cn^$important
@@ -39,6 +42,9 @@
 
 ! QQ相关
 @@||qzs.qq.com^$important
+
+! 向日葵远控
+@@||tk.oray.com^$important
 
 ! 其他需要解封的链接
 @@||177h.wodenongtian.com^$important
