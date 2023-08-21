@@ -12,6 +12,7 @@
 ! 今日头条相关
 @@||snssdk.com^$important
 @@||p3-sign.toutiaoimg.com^$important
+@@||mcs.snssdk.com^
 
 ! 
 ! 抖音直播购物
