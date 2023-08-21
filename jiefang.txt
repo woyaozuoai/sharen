@@ -6,47 +6,47 @@
 ! 
  
 ! 视频播放相关
-@@||iwebs.ml^$important
+@@||iwebs.ml^
 
 ! 
 ! 今日头条相关
-@@||snssdk.com^$important
-@@||p3-sign.toutiaoimg.com^$important
+@@||snssdk.com^
+@@||p3-sign.toutiaoimg.com^
 @@||mcs.snssdk.com^
 
 ! 
 ! 抖音直播购物
-@@||haohuo.jinritemai.com^$important 
-@@||tnc11-bjlgy.zijieapi.com^$important
-@@||tnc3-alisc1.zijieapi.com^$important
+@@||haohuo.jinritemai.com^ 
+@@||tnc11-bjlgy.zijieapi.com^
+@@||tnc3-alisc1.zijieapi.com^
 
 
 ! 数字人民币相关
-@@||pbcdci.cn^$important
+@@||pbcdci.cn^
 
 ! 
 ! 代码托管相关
-@@||githubusercontent.com^$important
-@@||github.com^$important
+@@||githubusercontent.com^
+@@||github.com^
 
 ! 
 ! 微软相关
-@@||dns.msftncsi.com^$important
+@@||dns.msftncsi.com^
 
 ! 
 ! 酷我音乐播放器相关
-@@||deliver.kuwo.cn^$important
+@@||deliver.kuwo.cn^
 
 ! 
 ! 探探APP相关
-@@||tantanapp.com^$important
+@@||tantanapp.com^
 
 ! QQ相关
-@@||qzs.qq.com^$important
+@@||qzs.qq.com^
 
 ! 向日葵远控
-@@||tk.oray.com^$important
+@@||tk.oray.com^
 
 ! 其他需要解封的链接
-@@||177h.wodenongtian.com^$important
-@@||177l.wodenongtian.com^$important
+@@||177h.wodenongtian.com^
+@@||177l.wodenongtian.com^
