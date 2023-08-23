@@ -9,6 +9,8 @@
 ||umeng.com^$important
 !推送
 
+! 神马站长相关
+||sm.cn^
 
 ! 
 ! 某些监控相关
@@ -16,8 +18,8 @@
 !||iptel.org^$important
 
 ! 
-! 小米相关
-
+! 小米路由器相关
+||api.miwifi.com^
 
 
 ! 
