@@ -12,6 +12,9 @@
 ! 神马站长相关
 ||sm.cn^
 
+! 防诈骗相关
+||js96110.com.cn^
+
 ! 
 ! 某些监控相关
 !||afdvr.com^$important
