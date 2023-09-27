@@ -76,9 +76,3 @@
 !腾讯相关
 ||bugly.qq.com^$important
 ||url.cn^$important
-
-0.0.0.0 hzs7.cnzz.com
-0.0.0.0 hzs8.cnzz.com
-0.0.0.0 hzs9.cnzz.com
-0.0.0.0 hzvs1.cnzz.com
-0.0.0.0 pcookie.cnzz.com
